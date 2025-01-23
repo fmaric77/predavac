@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import { FaEnvelope, FaPhone, FaCross } from "react-icons/fa"; // Import FaCross or any other suitable icon
-import Image from 'next/image';
 
 export default function Home() {
   return (
